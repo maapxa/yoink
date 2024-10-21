@@ -1,0 +1,27 @@
+{
+    "pipx": [
+        "cloninator",
+        "copier",
+        "eulertools",
+        "phosphorus",
+        "poetry",
+        "pvenv",
+        "python-lsp-server",
+        "uv",
+        "yamk"
+    ],
+    "brew": [
+        "bat",
+        "bottom",
+        "cowsay",
+        "curl",
+        "fzf",
+        "git",
+        "htop",
+        "jq",
+        "lsd",
+        "neovim",
+        "ripgrep",
+        "zsh"
+    ]
+}
